@@ -1,5 +1,7 @@
 # Node-Red for Multiple Users
 
+![Node-Red on Docker](https://github.com/janakiramm/docker-node-red/blob/master/docker-node-red.png)
+
 Node-Red is not designed for multiple users. By running it under Supervisor packaged as Docker container, we can run multiple instances of Node-Red. 
 
 Follow these steps to run three isolated instances of Node-Red
