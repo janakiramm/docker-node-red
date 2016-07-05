@@ -12,7 +12,7 @@ Build the Docker image
 ```
 docker build -t docker-node-red .
 ```
-Run the container
+Launch the container from the same directory
 ```
 docker run -d \
  -p 1880-1884:1880-1884 \
@@ -21,6 +21,6 @@ docker run -d \
  -v $(PWD)/rules:/rules \
  docker-node-red
 ```
-Check ports 1881, 1882, and 1883 for Node-Red instances
+Check ports 1881, 1882, and 1883 on the host for Node-Red instances
 
 
