@@ -1,4 +1,4 @@
-#  Run multiple instances of Node-Red in a single Docker container
+#  Run Multiple Instances of Node-Red in a Single Docker Container
 
 ![Node-Red on Docker](https://github.com/janakiramm/docker-node-red/blob/master/docker-node-red.png)
 
